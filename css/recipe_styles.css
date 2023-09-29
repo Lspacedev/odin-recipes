@@ -1,0 +1,52 @@
+ body {
+    width: 50%;
+    margin: auto;
+    
+ }
+
+ #icon-one {
+    position: absolute;
+    top: 2px;
+    left: 50px;
+}
+
+#icon-two {
+    position: absolute;
+    top: 2px;
+    right: 50px;
+}
+
+ h1 {
+    text-align: center;
+    text-decoration: underline 3px black;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2, p, li {
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+.image {
+    margin: 0 60px; 
+    box-shadow: 5px 5px 0 0 black;
+   
+}
+
+a {
+    text-decoration: none;
+    font-size: 25px;
+    padding: 5px;
+    margin: 15px;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline 3px black;
+ 
+}
